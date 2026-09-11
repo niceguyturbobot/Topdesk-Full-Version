@@ -236,3 +236,6 @@ This repository serves as the official landing page for TopDesk. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TopDesk today!**
+
+---
+**Last updated:** 2026-09-11 11:59:36 UTC
